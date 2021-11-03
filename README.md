@@ -1,4 +1,4 @@
 # DBFutils
-Simply python scripts for automating DBF electronics testing.
+Simple python scripts for automating DBF electronics testing.
  
 Sup
